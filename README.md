@@ -23,5 +23,3 @@ An e-commerce frontend template built with HTML and CSS, featuring a modern desi
 1. **Clone or Download** the repository.
 2. Ensure the `images/` folder contains all referenced assets (logos, product photos, discount badges, icons).
 3. Open `index.html` in any modern web browser.
-
-## File Structure
